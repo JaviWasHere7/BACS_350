@@ -8,7 +8,7 @@ let BMI = undefined;
 let storeBMI = [];
 
 while(check) {
-    console.log("\n");
+    console.log(" ")
     weight = prompt('Enter your weight in kilograms: ');
     height = prompt('Enter your height in meters: ');
 
